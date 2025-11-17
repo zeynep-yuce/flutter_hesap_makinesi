@@ -1,4 +1,4 @@
-# ilk_uygulama
+# flutter_hesap_makinesi
 
 A new Flutter project.
 
