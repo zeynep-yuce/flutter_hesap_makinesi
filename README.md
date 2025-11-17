@@ -1,6 +1,6 @@
 # flutter_hesap_makinesi
 
-A new Flutter project.
+Bu proje, Flutter kullanılarak geliştirilmiş basit ve responsive bir hesap makinesi uygulamasıdır.
 
 ## Getting Started
 
